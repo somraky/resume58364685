@@ -1,0 +1,12 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "resume in Software Engineering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
