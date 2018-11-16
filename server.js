@@ -3,7 +3,7 @@ var bodyParser = require('body-parser');
 var cors = require('cors');
 var path = require('path');
 //var https = require('https');
-var httpPort = process.env.httpPort || 8000;
+var httpPort = process.env.httpPort || 80;
 //var httpsPort = process.env.httpsPort || 443;
 
 var app = express();
